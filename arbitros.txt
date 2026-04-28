@@ -1,0 +1,10 @@
+Nestor,Pitana,17/06/1975,Argentina,35200123,520,Sí
+Pablo,Larreta,01/11/1978,Argentina,35034567,350,No
+Raphael,Claus,17/07/1980,Brasil,34023456,470,Sí
+Fernando,Rapallini,13/10/1978,Argentina,37056789,430,Sí
+Andrés,Cunha,17/06/1976,Uruguay,30045678,400,Sí
+Leonel,Barroso,06/08/2005,Argentina,45801794,300,Sí
+Facundo,Tolosa,23/01/1988,Argentina,39012345,310,No
+Silvio,Ferrer,03/04/1975,Argentina,36012345,290,No
+Carlos,Maglio,22/05/1976,Argentina,34045678,260,No
+Diego,Cunha,19/06/1977,Brasil,33012345,480,Sí

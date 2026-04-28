@@ -1,0 +1,50 @@
+Pablo,Sánchez,11/09/1988,República Dominicana,43710179,San Lorenzo,Delantero,9,10,8
+Andrés,Pérez,19/04/1986,Nicaragua,43059917,Rosario Central,Delantero,7,6,7
+Javier,García,11/11/1989,Bolivia,48803822,Gimnasia La Plata,Delantero,5,8,9
+Pablo,Fernández,21/11/2003,Venezuela,48138447,Newell's Old Boys,Mediocampista,6,9,10
+Ricardo,García,13/12/1996,Cuba,47825684,Estudiantes,Arquero,9,6,6
+Ricardo,López,29/09/2001,El Salvador,46213641,Huracán,Arquero,10,9,8
+Ricardo,Sánchez,29/06/1990,Brasil,46509087,Huracán,Mediocampista,6,8,5
+Ricardo,Rodríguez,12/11/2001,Chile,46874953,Racing Club,Delantero,8,5,5
+Ricardo,Fernández,11/11/1985,México,40259420,San Lorenzo,Delantero,10,8,5
+Pablo,Rodríguez,07/12/1991,Guatemala,44419340,Boca Juniors,Mediocampista,10,10,6
+Javier,Sánchez,02/07/1989,Guatemala,46981733,San Lorenzo,Arquero,7,5,9
+Martín,Sánchez,16/06/1989,Costa Rica,44574914,Gimnasia La Plata,Arquero,10,10,5
+Carlos,Martínez,31/05/1987,Nicaragua,41464749,Boca Juniors,Defensor,5,8,6
+Ricardo,Ramírez,23/10/1993,Brasil,46206149,Newell's Old Boys,Mediocampista,10,7,9
+Matías,Sánchez,13/11/2003,Panamá,44413044,Gimnasia La Plata,Defensor,6,7,9
+Ricardo,Torres,04/10/2001,Cuba,48758728,Estudiantes,Delantero,10,10,6
+Javier,García,13/01/1998,Venezuela,49009717,Boca Juniors,Arquero,10,6,9
+Ricardo,Ramírez,08/08/1989,Venezuela,45202495,River Plate,Mediocampista,6,7,5
+Carlos,Pérez,01/09/1987,Ecuador,49138828,Rosario Central,Mediocampista,5,6,5
+Javier,Sánchez,23/07/1995,República Dominicana,47992474,San Lorenzo,Defensor,6,10,10
+Fernando,Rodríguez,11/12/2001,Panamá,49990314,Estudiantes,Defensor,7,5,5
+Diego,Fernández,20/03/1996,Nicaragua,42092933,Independiente,Arquero,6,9,9
+Matías,López,26/06/1989,Paraguay,42729212,Racing Club,Delantero,10,10,8
+Carlos,Martínez,16/07/1994,Nicaragua,47137885,Gimnasia La Plata,Mediocampista,7,5,9
+Fernando,Gómez,17/07/1991,Chile,44493530,Racing Club,Mediocampista,7,7,5
+Ricardo,García,06/06/1994,Perú,41699010,River Plate,Mediocampista,8,7,7
+Pablo,Martínez,02/04/1986,Nicaragua,41716231,Huracán,Delantero,10,10,9
+Matías,Martínez,09/04/2001,Paraguay,40370797,Newell's Old Boys,Mediocampista,6,5,7
+Javier,García,29/09/1988,República Dominicana,43285918,Independiente,Delantero,7,9,7
+Martín,Torres,31/10/1994,Costa Rica,43367389,Independiente,Mediocampista,10,8,10
+Luis,Fernández,23/05/2005,Uruguay,41152685,San Lorenzo,Defensor,8,6,8
+Andrés,Fernández,28/07/1989,Venezuela,44059104,Estudiantes,Delantero,9,8,6
+Javier,Gómez,03/07/1990,México,46527252,River Plate,Mediocampista,5,5,10
+Andrés,Sánchez,18/02/1987,Honduras,41095050,Independiente,Mediocampista,8,6,7
+Luis,García,10/09/2005,Panamá,47754653,Racing Club,Defensor,8,6,8
+Javier,Fernández,27/12/1988,Nicaragua,49933881,Boca Juniors,Arquero,8,10,6
+Pablo,Rodríguez,29/08/2003,Panamá,49560918,Independiente,Arquero,8,8,7
+Andrés,Gómez,27/04/1998,Nicaragua,40316909,Estudiantes,Defensor,10,9,10
+Fernando,López,10/11/2002,México,43396970,Rosario Central,Delantero,6,8,8
+Diego,Sánchez,04/04/1987,Costa Rica,47414097,Racing Club,Defensor,9,10,10
+Javier,Gómez,04/08/1998,Venezuela,41299232,Rosario Central,Arquero,10,6,6
+Diego,Martínez,09/03/1994,Honduras,41247634,Newell's Old Boys,Delantero,9,7,5
+Pablo,García,25/12/1991,Perú,40425266,Rosario Central,Mediocampista,6,8,7
+Javier,Torres,03/11/2003,Nicaragua,43703458,Boca Juniors,Defensor,5,8,6
+Luis,Rodríguez,22/07/1986,Costa Rica,43443548,River Plate,Delantero,9,5,6
+Ricardo,Martínez,25/07/2004,Brasil,47647205,Newell's Old Boys,Arquero,7,5,9
+Andrés,Fernández,10/10/2003,Ecuador,48321107,Huracán,Mediocampista,9,5,6
+Carlos,Gómez,29/09/1998,Panamá,43880991,River Plate,Defensor,6,9,8
+Ricardo,García,13/10/2004,Guatemala,43601657,Gimnasia La Plata,Defensor,10,7,9
+Martín,Sánchez,09/12/1990,Uruguay,49848067,Huracán,Mediocampista,5,10,7
